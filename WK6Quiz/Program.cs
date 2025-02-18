@@ -22,6 +22,7 @@ namespace WK6Quiz
         }
         public static string IsPalindrome(string input)
         {
+            //palindomestring
             string palindrome = input;
             return IsPalindrome(input);
         }
